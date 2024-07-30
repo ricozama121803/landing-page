@@ -1,0 +1,117 @@
+[33mcommit 34e1f40a32408072cf348ee8302346b629dcd18d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: b4508c5 6abcf19
+Author: Enrico Zamarripa <ricozama121803@gmail.com>
+Date:   Tue Jul 30 12:10:39 2024 -0700
+
+    Merge branch 'main' of https://github.com/ricozama121803/landing-page
+
+[33mcommit 6abcf19b765f339c7f03cf2bc54d9e738e05b880[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Enrico Rahvi Zamarripa <143975494+ricozama121803@users.noreply.github.com>
+Date:   Tue Jul 30 11:59:18 2024 -0700
+
+    Delete landing.html
+
+[33mcommit 89f8e0e79af82762197def5db71aea347424a171[m
+Author: Enrico Rahvi Zamarripa <143975494+ricozama121803@users.noreply.github.com>
+Date:   Tue Jul 30 11:59:11 2024 -0700
+
+    Delete index.html
+
+[33mcommit 367ab20a95b9acc43cb55fce3e10fad0c7cc2991[m
+Author: Enrico Rahvi Zamarripa <143975494+ricozama121803@users.noreply.github.com>
+Date:   Tue Jul 30 11:59:01 2024 -0700
+
+    Delete generic.html
+
+[33mcommit 893132bad34620715cb47435a7f064b6202ae89a[m
+Author: Enrico Rahvi Zamarripa <143975494+ricozama121803@users.noreply.github.com>
+Date:   Tue Jul 30 11:58:53 2024 -0700
+
+    Delete elements.html
+
+[33mcommit a83bf07e0e022dd994bda4d6ad6050074e931538[m
+Author: Enrico Rahvi Zamarripa <143975494+ricozama121803@users.noreply.github.com>
+Date:   Tue Jul 30 11:58:44 2024 -0700
+
+    Delete README.txt
+
+[33mcommit a53f636f97f3da6cbcbbb1238bb122b665f412c2[m
+Author: Enrico Rahvi Zamarripa <143975494+ricozama121803@users.noreply.github.com>
+Date:   Tue Jul 30 11:58:29 2024 -0700
+
+    Delete README.md
+
+[33mcommit 3bb99344af75513fac28cbc7b4dc7e7a585da462[m
+Author: Enrico Rahvi Zamarripa <143975494+ricozama121803@users.noreply.github.com>
+Date:   Tue Jul 30 11:58:17 2024 -0700
+
+    Delete LICENSE.txt
+
+[33mcommit 4d93ee5169003070de118b95d10e18948920934c[m
+Author: Enrico Rahvi Zamarripa <143975494+ricozama121803@users.noreply.github.com>
+Date:   Tue Jul 30 11:58:06 2024 -0700
+
+    Delete images directory
+
+[33mcommit ad9735b32deb71062e1bb048f269a82bd96fe944[m
+Author: Enrico Rahvi Zamarripa <143975494+ricozama121803@users.noreply.github.com>
+Date:   Tue Jul 30 11:57:57 2024 -0700
+
+    Delete assets directory
+
+[33mcommit 733a077e3a03b56e8f9a4f0c1b9a94c35648c79b[m
+Author: Enrico Rahvi Zamarripa <143975494+ricozama121803@users.noreply.github.com>
+Date:   Tue Jul 30 11:57:47 2024 -0700
+
+    Delete .vs directory
+
+[33mcommit b4508c529e81c6667a05dbb0b56e81612124c61b[m
+Merge: 2fb7b34 00dcc60
+Author: Enrico Zamarripa <ricozama121803@gmail.com>
+Date:   Tue Jul 30 11:47:35 2024 -0700
+
+    Merge branch 'master' of https://github.com/ricozama121803/portfoliosite
+    
+    :wq
+
+[33mcommit 2fb7b34ef98ae8c81f404f77c3f15e80c634e708[m
+Author: Enrico Zamarripa <ricozama121803@gmail.com>
+Date:   Tue Jul 30 11:40:00 2024 -0700
+
+    Initial commit
+
+[33mcommit 00dcc60553d8e597453a0b8bed79259d9ed5580a[m
+Author: Enrico Rahvi Zamarripa <143975494+ricozama121803@users.noreply.github.com>
+Date:   Tue Jul 30 11:07:20 2024 -0700
+
+    Initial commit
+
+[33mcommit 4fe32b3999b3cd1342ec78097981eb7f26645489[m
+Author: Enrico Zamarripa <ricozama121803@gmail.com>
+Date:   Mon Jul 29 20:52:55 2024 -0700
+
+    Updated landing page with new project descriptions and travel experiences
+
+[33mcommit d84e2344c062201984cc44b1e860dab1e85c3703[m
+Author: Enrico Zamarripa <ricozama121803@gmail.com>
+Date:   Fri Jul 26 15:40:10 2024 -0700
+
+    Updated index.html and added new styles in style.css
+
+[33mcommit 2a28a9fe3d7150f326168ad3dc75f7c7b5ba7f50[m
+Author: Enrico Zamarripa <ricozama121803@gmail.com>
+Date:   Fri Jul 26 14:45:14 2024 -0700
+
+    Add all project files
+
+[33mcommit 99dd4398ffe02828878e5f764dbfab4cfe06ae9e[m
+Author: Enrico Zamarripa <ricozama121803@gmail.com>
+Date:   Fri Jul 26 14:40:04 2024 -0700
+
+    first commit
+
+[33mcommit d8e1cf294af3638a532e8892dbd4e8e7619794b0[m
+Author: Enrico Zamarripa <ricozama121803@gmail.com>
+Date:   Fri Jul 26 14:32:05 2024 -0700
+
+    first commit
