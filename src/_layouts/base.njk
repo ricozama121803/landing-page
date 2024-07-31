@@ -7,20 +7,26 @@
   lang="en"
 >
 
-	{% include "partials/head.njk" %}
+  <head>
+    {% include "partials/head.njk" %}
+    <!-- Link to CSS file -->
+    <link rel="stylesheet" href="/assets/scss/main.css">
+  </head>
 
   <body>
-		<div class="wrapper-bg-wrapper">
+    <div class="wrapper-bg-wrapper">
       <div class="wrapper-bg"></div>
     </div>
 
-		{% include "partials/site-header.njk" %}
-		{% include "partials/drawer.njk" %}
-		<main>
-			{{ layoutContent | safe }}
-		</main>
+    {% include "partials/site-header.njk" %}
+    {% include "partials/drawer.njk" %}
+    <main>
+      {{ layoutContent | safe }}
+    </main>
 
-		{% include "partials/footer.njk" %}
-	</body>
+    {% include "partials/footer.njk" %}
+    <!-- Link to JavaScript file -->
+    <script src="/assets/js/main.js"></script>
+  </body>
 
 </html>

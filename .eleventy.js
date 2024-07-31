@@ -34,10 +34,11 @@ module.exports = function (eleventyConfig) {
   // Minify HTML output
   eleventyConfig.addTransform('htmlmin', minifyHtml);
 
-  // Don't process folders with static assets
+  // Passthrough copy for static assets
   eleventyConfig.addPassthroughCopy('./src/favicon.ico');
   eleventyConfig.addPassthroughCopy('./src/admin');
   eleventyConfig.addPassthroughCopy('./src/assets/img');
+  eleventyConfig.addPassthroughCopy('./src/assets/scss/main.css');
 
   // Allow Turbolinks to work in development mode
   eleventyConfig.setBrowserSyncConfig(browserSyncConfig);
